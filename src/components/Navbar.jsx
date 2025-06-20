@@ -10,12 +10,6 @@ const Navbar = () => {
             Only<span className='text-[#5c6bc0]'>PASS</span>
           </a>
         </div>
-        <div>
-          <button className='flex justify-center items-center gap-3 px-6 py-2 font-semiboldbold rounded-2xl text-sm cursor-pointer bg-[#2f3949] hover:bg-[#2b333d] duration-150'>
-            <img className='w-7' src="/icons/github.png" alt="Github Logo" />
-            <p>Github</p>
-          </button>
-        </div>
       </div>
     </nav>
   )
